@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://autohenc.nl/sitemap.xml
