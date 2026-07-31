@@ -6,6 +6,61 @@
 # ---------------------------------------------------------------------------
 ARTICLES = [
     {
+        "slug": "bedrijfsauto-meer-dan-vervoer",
+        "title": "Waarom een bedrijfsauto meer kan zijn dan vervoer",
+        "description": "Een bedrijfsauto is meer dan vervoer. Zo werkt een wagen als rijdend visitekaartje, met voordelen voor imago, herkenbaarheid en efficientie.",
+        "date": "2026-06-22",
+        "category": "Bedrijfsauto",
+        "lead": "Een bedrijfsauto is vaak het eerste contact tussen een onderneming en een mogelijke klant. Met een doordachte uitstraling en inrichting levert die wagen meer op dan alleen vervoer.",
+        "body": """
+<p>Een bedrijfsauto die bij een bouwplaats of voor de deur van een klant staat,
+valt op. Zo'n wagen vertelt een verhaal over het bedrijf, nog voordat er een
+woord is gewisseld. Dat maakt de bedrijfsauto een van de eerste contactmomenten
+met een mogelijke klant, en dat is slim in te zetten.</p>
+
+<h2>Een rijdend visitekaartje</h2>
+<p>Een bedrijfsauto is 24 uur per dag zichtbaar en werkt zo als visitekaartje op
+wielen. Met de juiste uitstraling wekt de wagen vertrouwen, straalt hij
+professionaliteit uit en zorgt hij voor herkenning in de buurt. Ingewikkeld hoeft
+dat niet te zijn: een duidelijke bedrijfsnaam, een logo en contactgegevens zijn
+vaak al genoeg.</p>
+
+<h2>Praktische voordelen naast de reclame</h2>
+<p>Naast de marketing heeft een goed ingerichte bedrijfsauto ook praktische
+voordelen. Denk aan gereedschapsopslag die tijd bespaart, een mobiele werkplek
+voor korte klussen of ruimte voor materiaal dat snel mee moet. Dat verhoogt de
+efficientie van een werkdag en scheelt onnodige ritten.</p>
+
+<h2>Wat branding oplevert</h2>
+<p>Consistente branding maakt verschil. Een vaak onderbelicht effect: medewerkers
+voelen zich professioneler en trotser in een herkenbare wagen. Dat werkt door in
+het klantcontact, want de indruk van een bedrijf wordt mede bepaald door hoe
+verzorgd het eruitziet.</p>
+
+<h3>De voordelen op een rij</h3>
+<ul>
+  <li>Meer naamsbekendheid zonder extra mediakosten.</li>
+  <li>Directe contactinformatie voor mogelijke klanten.</li>
+  <li>Betere organisatie en werkefficientie.</li>
+  <li>Meer vertrouwen en herkenbaarheid.</li>
+</ul>
+
+<h2>Van simpele belettering tot full-wrap</h2>
+<p>Wie de auto als marketingmiddel wil inzetten, heeft verschillende opties:
+eenvoudige belettering, een full-wrap of subtiele accenten. Maatwerk dat past bij
+de branche en het budget werkt het best. Voor people movers of servicewagens
+levert een overzichtelijke opmaak meestal meer op dan een druk ontwerp.</p>
+<p>Voor voorbeelden en inspiratie kan gekeken worden naar bedrijven die zich
+hierin specialiseren, zoals
+<a href="https://www.martinireclamemakers.nl/producten/belettering/autobelettering/">reclame op de bedrijfsauto van Martini Reclamemakers</a>.
+Vaak levert een kleine investering al direct zichtbaar resultaat op.</p>
+
+<p>Kortom: een bedrijfsauto is meer dan vervoer. Met een doordacht ontwerp en een
+praktische inrichting wordt de wagen een middel voor imago, efficientie en
+klantcontact.</p>
+""",
+    },
+    {
         "slug": "auto-importeren-uit-duitsland",
         "title": "Auto importeren uit Duitsland: zo werkt het",
         "description": "Complete uitleg over het importeren van een auto uit Duitsland: voordelen, kosten, papieren en de stappen tot een Nederlands kenteken.",
