@@ -446,6 +446,15 @@ voorkomt teleurstellingen achteraf.</p>
 
 ARTICLES_BY_SLUG = {a["slug"]: a for a in ARTICLES}
 
+# ---------------------------------------------------------------------------
+# Linkpartners (verschijnen op /partners). Eén regel per partner:
+#   (ankertekst, url, korte omschrijving)
+# ---------------------------------------------------------------------------
+LINK_PARTNERS = [
+    ("Spoedcursus rijbewijs Leiden", "https://rijbewijssucces.nl/",
+     "Snel het rijbewijs halen met een spoedcursus in de regio Leiden."),
+]
+
 
 def _nl_date(iso):
     months = ["januari", "februari", "maart", "april", "mei", "juni", "juli",
@@ -713,6 +722,12 @@ def build_all(g):
               jsonld=lds, og_type="article"))
 
     # ----- Partners -----
+    partner_items = ""
+    for anchor, url, desc in LINK_PARTNERS:
+        partner_items += (
+            f'<li><a href="{url}">{anchor}</a>'
+            f'<span class="partner-desc">{desc}</span></li>'
+        )
     partners_body = f"""
 <section class="page">
   <div class="wrap">
@@ -734,6 +749,9 @@ def build_all(g):
         Een logische keuze voor wie de import liever uit handen geeft.</p>
         <a class="more" href="https://easyimport.nl" rel="nofollow">Bekijk EasyImport.nl &rarr;</a>
       </div>
+
+      <h2>Partners</h2>
+      <ul class="partner-links">{partner_items}</ul>
 
       <h2>Partner worden</h2>
       <p>Aanbieders van diensten die passen bij auto-import, zoals transport,

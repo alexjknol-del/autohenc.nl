@@ -185,6 +185,12 @@ p{margin:0 0 1rem}
 .help .btn-primary{background:var(--plate-yellow);color:#16181b}
 .help .btn-primary:hover{background:#e9c40e}
 
+/* Partner links */
+.partner-links{list-style:none;padding:0;margin:0 0 8px;display:grid;gap:12px}
+.partner-links li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.partner-links li a{font-weight:600;font-size:1.02rem}
+.partner-desc{display:block;color:var(--slate);font-size:.95rem;margin-top:3px}
+
 /* Footer */
 .site-footer{border-top:1px solid var(--line);margin-top:30px;padding:50px 0 40px;background:#f4f3ec}
 .foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:34px}
