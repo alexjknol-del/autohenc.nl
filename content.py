@@ -6,6 +6,37 @@
 # ---------------------------------------------------------------------------
 ARTICLES = [
     {
+        "slug": "auto-reinigen-voor-de-taxatie",
+        "title": "Een ge\u00efmporteerde auto klaarmaken voor taxatie en aflevering",
+        "description": "Bij import bepaalt de staat van de auto mede de taxatiewaarde. Reinigen is daarbij geen cosmetische bijzaak.",
+        "date": "2026-08-19",
+        "category": "Tips",
+        "lead": "Bij een auto die uit Duitsland komt, wordt de waarde vastgesteld door een taxateur die naar schade, slijtage en algemene staat kijkt. Die beoordeling gebeurt visueel, en een auto die net van de trailer komt oogt bijna altijd slechter dan hij is.",
+        "body": """
+<p>Bij een auto die uit Duitsland komt, wordt de waarde vastgesteld door een taxateur die naar schade, slijtage en algemene staat kijkt. Die beoordeling gebeurt visueel, en een auto die net van de trailer komt oogt bijna altijd slechter dan hij is.</p>
+<h2>Waarom het meeweegt</h2>
+<p>Vuil verbergt geen schade, maar het maakt schade wel moeilijker te beoordelen. Een taxateur die krassen niet goed kan zien, houdt rekening met een marge. Dat werkt zelden in het voordeel van de importeur. Een auto die schoon wordt aangeboden, krijgt een beoordeling op wat er werkelijk aan mankeert.</p>
+<p>Bij aflevering speelt hetzelfde. De eerste indruk van een koper wordt in de eerste twintig seconden gevormd, en die indruk kleurt vervolgens hoe kritisch er naar de rest wordt gekeken.</p>
+<h2>Volgorde van werken</h2>
+<ul>
+  <li>Eerst voorwassen zonder contact, om zand en straatvuil los te weken.</li>
+  <li>Daarna pas met de hand wassen, met twee emmers.</li>
+  <li>Teer, boomhars en velgenstof apart behandelen.</li>
+  <li>Als laatste het interieur, zodat vocht van buiten niet mee naar binnen gaat.</li>
+</ul>
+<p>De meest gemaakte fout is direct met een borstel of spons over droog vuil gaan. Dat veroorzaakt de fijne cirkelvormige krassen die op donkere lak in de zon meteen zichtbaar zijn, en die kosten meer aan herstel dan de hele wasbeurt oplevert. Het benodigde materiaal staat bij <a href="https://shop.absolutecarcleaning.nl/collections/auto-reinigingsproducten" rel="nofollow">Absolute Car Cleaning</a>.</p>
+<h2>Het interieur</h2>
+<p>Bij een importauto is het interieur vaak het onderdeel waar de meeste winst zit. Rookgeur, vlekken op de bekleding en verkleurd kunststof op het dashboard drukken de indruk sterker dan een kleine lakbeschadiging.</p>
+<p>Werk van boven naar beneden en gebruik voor kunststof een middel zonder glansmiddel; een glimmend dashboard geeft hinderlijke reflectie in de voorruit en oogt bovendien vettig. Wat daarvoor geschikt is staat op <a href="https://shop.absolutecarcleaning.nl/collections/auto-interieur-reinigen-producten" rel="nofollow">absolutecarcleaning.nl</a>.</p>
+<h2>Documentatie</h2>
+<p>Maak foto&#x27;s van de auto in schone staat, direct na het reinigen en bij daglicht. Die foto&#x27;s zijn nuttig bij de taxatie, bij een discussie over transportschade en later bij de verkoop.</p>
+<p>Fotografeer daarbij ook de onderdelen die er goed uitzien, zoals de bandenprofielen en de originele bekleding. Een dossier dat alleen uit schadefoto&#x27;s bestaat, geeft een vertekend beeld van wat er is geleverd.</p>
+<h2>Transport en de eerste dagen</h2>
+<p>Een auto die op een open trailer is vervoerd, komt met een laag wegvuil aan waarin zout en metaaldeeltjes zitten. Dat laagje afspoelen binnen een dag scheelt later een chemische reiniging, omdat de deeltjes zich anders in de laklaag inzetten en daar roestpuntjes veroorzaken.</p>
+<p>Zet de auto in die eerste dagen bovendien niet onder een boom of vlak bij een spoor. Boomhars en remstof van treinen zijn de twee soorten aanslag die het lastigst te verwijderen zijn zonder de lak aan te tasten, en beide hechten het sterkst op een verse, nog niet beschermde laklaag.</p>
+""",
+    },
+    {
         "slug": "bedrijfsauto-meer-dan-vervoer",
         "title": "Waarom een bedrijfsauto meer kan zijn dan vervoer",
         "description": "Een bedrijfsauto is meer dan vervoer. Zo werkt een wagen als rijdend visitekaartje, met voordelen voor imago, herkenbaarheid en efficientie.",
