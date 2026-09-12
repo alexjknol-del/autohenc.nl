@@ -484,6 +484,14 @@ ARTICLES_BY_SLUG = {a["slug"]: a for a in ARTICLES}
 LINK_PARTNERS = [
     ("Spoedcursus rijbewijs Leiden", "https://rijbewijssucces.nl/",
      "Snel het rijbewijs halen met een spoedcursus in de regio Leiden."),
+    ("Elektrische heftruck kopen", "https://www.heffiq.nl/elektrische/heftruck",
+     "HeffiQ levert elektrische heftrucks voor intern transport in loods en werkplaats."),
+    ("Moment sleutel", "https://www.radialtorque.eu/radtorque/momentsleutels/",
+     "RAD Torque levert momentsleutels waarmee bouten op een vast aanhaalmoment worden vastgezet."),
+    ("kraanmachinist inhuren", "https://www.mvemultiservice.nl/kraan-machinist",
+     "MvE Multiservice verhuurt kraanmachinisten voor bouw-, grondverzet- en infraprojecten."),
+    ("rittenplanning software", "https://www.ptvlogistics.com/nl/producten/ptv-optiflow",
+     "PTV Logistics maakt software voor ritoptimalisatie, waarmee vervoerders ritten en routes efficienter plannen."),
 ]
 
 
