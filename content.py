@@ -6,6 +6,81 @@
 # ---------------------------------------------------------------------------
 ARTICLES = [
     {
+        "slug": "huurauto-buitenland-waar-op-letten",
+        "title": "Een huurauto in het buitenland: waar op letten, met Curaçao als voorbeeld",
+        "description": "Waar op te letten bij een huurauto in het buitenland: rijbewijs, verzekering, levering, het type auto en de controle bij overname, uitgewerkt voor Curaçao.",
+        "date": "2026-09-22",
+        "category": "Tips",
+        "lead": "Wie gewend is een auto kritisch te bekijken voor aankoop of import, heeft bij het huren op vakantie een voorsprong. Een huurauto is maar voor een paar weken, maar de punten die ertoe doen zijn grotendeels dezelfde. Curaçao is een goed voorbeeld, omdat een auto daar voor de meeste reizigers onmisbaar is.",
+        "body": """
+<h2>Rijbewijs en regels ter plaatse</h2>
+<p>De eerste vraag is of het eigen rijbewijs geldig is. Binnen Europa is dat
+meestal geen punt, daarbuiten verschilt het per land. Op Curaçao is een geldig
+Nederlands rijbewijs voldoende en wordt rechts gereden, net als in Nederland. Het
+loont om vooraf de lokale maximumsnelheden en voorrangsregels na te lezen. Op
+Curaçao liggen de snelheidslimieten lager dan op Nederlandse wegen en staan op
+de hoofdwegen rond Willemstad veel rotondes.</p>
+
+<h2>Verzekering en eigen risico</h2>
+<p>Bij huurauto's zit het grootste verschil vaak niet in de auto, maar in de
+verzekering. Een basisdekking laat soms een hoog eigen risico over, en schade aan
+banden, ruiten of de onderkant van de auto valt er niet altijd onder. Juist die
+onderdelen lopen op minder goede wegen het meeste risico. Een all-risk
+verzekering met een beperkt eigen risico geeft onderweg de meeste rust. Het is
+verstandig om vooraf na te vragen wat er precies onder valt en wat niet.</p>
+
+<h2>Ophalen of laten bezorgen</h2>
+<p>Na een lange vlucht is een rit naar een verhuurkantoor geen pretje. Steeds
+meer verhuurders leveren de auto af op de luchthaven of bij het verblijf. Op
+Curaçao is dat gebruikelijk: bij
+<a href="https://www.autohurenopcuracao.nl/">AutohurenopCuracao.nl</a> kan de
+auto op beide plekken klaarstaan, zodat de vakantie direct kan beginnen.
+Belangrijk is wel om bij de overdracht dezelfde controle te doen als bij een
+auto die op kantoor wordt opgehaald.</p>
+
+<h2>Het type auto kiezen</h2>
+<p>Een compacte auto is wendbaar in smalle straten en past in een krappe
+parkeerplek. Een kleine SUV zit hoger, wat prettig is op wegen met kuilen en op
+zandpaden naar kleinere baaien. Voor gezinnen of groepen is een
+zevenpersoonsauto handig, al wordt de bagageruimte kleiner als alle stoelen in
+gebruik zijn. Kijk ook naar de airconditioning: in een tropisch klimaat is dat
+geen luxe. Het aanbod van
+<a href="https://www.huurauto-curacao.com/">Huurauto-Curacao.com</a> laat goed
+zien hoe die keuze uitpakt, met compacte auto's, kleine SUV's en
+zevenpersoonsauto's naast elkaar.</p>
+
+<h2>De auto controleren bij overname</h2>
+<p>Hier komt de ervaring met het beoordelen van auto's van pas. Loop de auto
+rustig rond voordat de sleutel wordt aangenomen en maak foto's van alle kanten,
+bij daglicht. Let op:</p>
+<ul>
+  <li>krassen en deuken op bumpers, portieren en velgen;</li>
+  <li>sterretjes of barsten in de voorruit;</li>
+  <li>het profiel en de staat van de banden, ook van het reservewiel;</li>
+  <li>de werking van airconditioning, verlichting en ruitenwissers;</li>
+  <li>de brandstofmeter en de kilometerstand.</li>
+</ul>
+<p>Laat bestaande schade op het overdrachtsformulier zetten. Een jonge, goed
+onderhouden auto heeft meestal weinig op te merken, maar een fotodossier
+voorkomt discussie bij het inleveren.</p>
+
+<h2>Tanken en inleveren</h2>
+<p>Veel verhuurders werken met een vol-vol regeling: de auto gaat met een volle
+tank mee en komt zo ook terug. Op Curaçao liggen de meeste tankstations rond
+Willemstad en worden ze richting het westen schaarser. Wie een dag naar Westpunt
+gaat, vertrekt dus met een volle tank. Plan bij het inleveren wat extra tijd in,
+zeker als de auto op de luchthaven wordt teruggegeven.</p>
+
+<h2>Goed voorbereid op pad</h2>
+<p>Een huurauto in het buitenland vraagt om dezelfde nuchtere blik als een auto
+die wordt gekocht. Controleer de geldigheid van het rijbewijs, lees wat de
+verzekering dekt, kies een auto die past bij het gezelschap en de wegen, en leg
+de staat van de auto vast bij de overname. Op Curaçao levert dat een auto op
+waarmee het hele eiland zonder zorgen te bereiken is, van de stad tot de baaien
+in het westen.</p>
+""",
+    },
+    {
         "slug": "auto-reinigen-voor-de-taxatie",
         "title": "Een ge\u00efmporteerde auto klaarmaken voor taxatie en aflevering",
         "description": "Bij import bepaalt de staat van de auto mede de taxatiewaarde. Reinigen is daarbij geen cosmetische bijzaak.",
