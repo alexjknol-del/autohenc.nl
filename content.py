@@ -6,6 +6,47 @@
 # ---------------------------------------------------------------------------
 ARTICLES = [
     {
+        "slug": "occasion-uit-duitsland-historie-controleren",
+        "title": "Een occasion uit Duitsland: zo is de historie te controleren",
+        "description": "Hoe de historie van een gebruikte auto uit Duitsland te controleren is: het Scheckheft, de TÜV-rapporten, de kilometerstand en de papieren bij de koop.",
+        "date": "2026-08-12",
+        "category": "Tips",
+        "lead": "Het Duitse aanbod aan gebruikte auto's is groot en de prijzen zijn vaak scherp. Wie daar een auto koopt, wil wel zeker weten dat de geschiedenis klopt. Gelukkig zijn er in Duitsland een paar vaste documenten die daar veel over zeggen.",
+        "body": """
+<h2>Het Scheckheft</h2>
+<p>Het onderhoudsboekje heet in Duitsland Scheckheft. Een auto met een volledig
+ingevuld boekje, met stempels van een dealer of erkende garage, heet
+scheckheftgepflegt. Dat is een sterk punt bij de verkoop. Controleer of de data
+en kilometerstanden logisch op elkaar volgen en of de stempels bij echte
+bedrijven horen.</p>
+
+<h2>TÜV-rapporten</h2>
+<p>Elke auto in Duitsland moet periodiek naar de Hauptuntersuchung, beter bekend
+als de TÜV-keuring. Op de rapporten staat de kilometerstand bij elke keuring en
+een lijst met eventuele gebreken. Wie de oude rapporten naast elkaar legt, ziet
+snel of de kilometerstand in een gewone lijn oploopt.</p>
+
+<h2>De kilometerstand</h2>
+<p>Een kilometerstand die tussen twee keuringen nauwelijks oploopt, of juist
+terugloopt, is een reden om door te vragen. Vergelijk ook de slijtage van stuur,
+pedalen en bestuurdersstoel met de getoonde stand. Bij twijfel kan een dealer
+van het merk de gegevens uit de eigen systemen opvragen.</p>
+
+<h2>De papieren bij de koop</h2>
+<p>Voor de overschrijving naar Nederland zijn de Zulassungsbescheinigung Teil I en
+Teil II nodig. Deel II is het eigendomsbewijs. Zonder dat document is een import
+niet mogelijk. Controleer of het chassisnummer op de papieren overeenkomt met het
+nummer op de auto zelf.</p>
+
+<h2>Uitbesteden</h2>
+<p>Wie geen Duits spreekt of de controle liever aan een specialist overlaat, kan de
+hele aankoop laten begeleiden. Op
+<a href="https://easyimport.nl/auto-importeren-duitsland/">https://easyimport.nl/auto-importeren-duitsland/</a>
+staat stap voor stap hoe een import uit Duitsland via
+<a href="https://easyimport.nl/">Easy Import</a> verloopt.</p>
+""",
+    },
+    {
         "slug": "huurauto-buitenland-waar-op-letten",
         "title": "Een huurauto in het buitenland: waar op letten, met Curaçao als voorbeeld",
         "description": "Waar op te letten bij een huurauto in het buitenland: rijbewijs, verzekering, levering, het type auto en de controle bij overname, uitgewerkt voor Curaçao.",
