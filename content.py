@@ -81,6 +81,82 @@ in het westen.</p>
 """,
     },
     {
+        "slug": "auto-importeren-duitsland-met-begeleiding",
+        "title": "Auto importeren uit Duitsland met begeleiding: wat een importbedrijf overneemt",
+        "description": "Wat een importbedrijf doet bij een auto uit Duitsland: zoeken, controleren, ophalen, keuren, BPM-aangifte en kenteken, en wanneer zelf importeren wel past.",
+        "date": "2026-09-16",
+        "category": "Stappenplan",
+        "lead": "Zelf een auto importeren uit Duitsland kan prima, maar het vraagt tijd, een paar reisdagen en kennis van papieren en BPM. Een importbedrijf neemt die stappen over. De vraag is welke stappen dat precies zijn en wat dat oplevert.",
+        "body": """
+<h2>Zoeken en controleren op afstand</h2>
+<p>Het aanbod op Duitse autosites is groot, maar niet elke advertentie klopt. Een
+importbedrijf controleert de historie, de onderhoudsboekjes en de staat van de
+auto voordat er een aanbetaling wordt gedaan. Zo valt een auto met verborgen
+schade of een onduidelijke kilometerstand op tijd af.</p>
+
+<h2>Koop en papieren</h2>
+<p>Bij de koop horen de Zulassungsbescheinigung Teil I en Teil II, een
+koopcontract en een factuur waarop de btw-situatie duidelijk staat. Een fout in de
+papieren merkt een koper vaak pas bij de RDW. Een importbedrijf weet welke stukken
+nodig zijn en wat er bij een handelaar of particulier anders gaat.</p>
+
+<h2>Ophalen en keuren</h2>
+<p>De auto wordt opgehaald met eigen transport of op een exportkenteken naar
+Nederland gereden. Daarna volgt de keuring bij de RDW. Kleine gebreken worden vaak
+vooraf verholpen, zodat de auto in één keer goedgekeurd wordt.</p>
+
+<h2>BPM en kenteken</h2>
+<p>De BPM-aangifte is het onderdeel waarop het meeste te winnen of te verliezen
+valt. De keuze tussen tabel, koerslijst en taxatie bepaalt het bedrag. Na betaling
+volgt het Nederlandse kenteken en kan de auto op naam.</p>
+
+<h2>Wanneer zelf importeren past</h2>
+<p>Wie tijd heeft, Duits spreekt en een auto al heeft gevonden, kan het traject
+zelf doen. Wie dat niet wil, kan het volledig uitbesteden. Hoe dat werkt en wat
+het kost, staat bij <a href="https://easyimport.nl/">Easy Import</a> en uitgebreid
+op <a href="https://easyimport.nl/auto-importeren-duitsland/">https://easyimport.nl/auto-importeren-duitsland/</a>.</p>
+""",
+    },
+    {
+        "slug": "auto-importeren-uit-belgie",
+        "title": "Een auto importeren uit België: wat er anders gaat dan bij Duitsland",
+        "description": "Een auto uit België naar Nederland halen: persoonsgebonden kentekenplaten, Car-Pass, de keuring voor verkoop, vervoer zonder platen en de stappen in Nederland.",
+        "date": "2026-08-26",
+        "category": "Stappenplan",
+        "lead": "België ligt dichtbij en de taal is geen drempel. Toch werkt een import uit België op een paar punten anders dan uit Duitsland. Wie die verschillen kent, voorkomt een vergeefse rit naar Antwerpen of Gent.",
+        "body": """
+<h2>De nummerplaat blijft bij de verkoper</h2>
+<p>In België hoort de nummerplaat bij de eigenaar, niet bij de auto. Bij verkoop
+haalt de verkoper de plaat eraf. Wegrijden op de oude plaat kan dus niet. De auto
+moet op een trailer, met een autotransporteur of op een tijdelijke
+transitnummerplaat met bijbehorende verzekering de grens over.</p>
+
+<h2>Car-Pass en keuring voor verkoop</h2>
+<p>Bij de verkoop van een gebruikte auto in België hoort een Car-Pass, een
+overzicht van de geregistreerde kilometerstanden. Daarnaast moet een
+tweedehands auto bij verkoop een keuring hebben ondergaan. Beide documenten
+geven een koper houvast over de geschiedenis en de staat van de auto. Ontbreekt
+een van beide, dan is dat een reden om extra voorzichtig te zijn.</p>
+
+<h2>De papieren die mee moeten</h2>
+<p>Naast de Car-Pass en het keuringsbewijs zijn het inschrijvingsbewijs, het
+gelijkvormigheidsattest en een aankoopfactuur nodig. Die stukken vraagt de RDW
+bij de keuring in Nederland. Zonder het gelijkvormigheidsattest kan de keuring
+vertraging oplopen.</p>
+
+<h2>Vanaf de grens is het traject gelijk</h2>
+<p>In Nederland volgt hetzelfde traject als bij elke import: de keuring bij de
+RDW, de BPM-aangifte bij de Belastingdienst en daarna het Nederlandse kenteken.
+De BPM wordt berekend op dezelfde manier als bij een auto uit Duitsland.</p>
+
+<h2>Uitbesteden of zelf doen</h2>
+<p>Een overzicht van het hele traject, met de Belgische documenten erbij, staat op
+<a href="https://easyimport.nl/auto-importeren-belgie/">https://easyimport.nl/auto-importeren-belgie/</a>.
+<a href="https://easyimport.nl/">Easy Import</a> haalt de auto op met eigen
+transport, zodat het probleem van de ontbrekende nummerplaat vervalt.</p>
+""",
+    },
+    {
         "slug": "auto-reinigen-voor-de-taxatie",
         "title": "Een ge\u00efmporteerde auto klaarmaken voor taxatie en aflevering",
         "description": "Bij import bepaalt de staat van de auto mede de taxatiewaarde. Reinigen is daarbij geen cosmetische bijzaak.",
@@ -109,6 +185,95 @@ in het westen.</p>
 <h2>Transport en de eerste dagen</h2>
 <p>Een auto die op een open trailer is vervoerd, komt met een laag wegvuil aan waarin zout en metaaldeeltjes zitten. Dat laagje afspoelen binnen een dag scheelt later een chemische reiniging, omdat de deeltjes zich anders in de laklaag inzetten en daar roestpuntjes veroorzaken.</p>
 <p>Zet de auto in die eerste dagen bovendien niet onder een boom of vlak bij een spoor. Boomhars en remstof van treinen zijn de twee soorten aanslag die het lastigst te verwijderen zijn zonder de lak aan te tasten, en beide hechten het sterkst op een verse, nog niet beschermde laklaag.</p>
+""",
+    },
+    {
+        "slug": "bpm-berekenen-geimporteerde-auto",
+        "title": "BPM berekenen bij een geïmporteerde auto: tabel, koerslijst of taxatie",
+        "description": "Hoe de BPM op een geïmporteerde gebruikte auto wordt berekend: CO2-uitstoot, de afschrijving via tabel, koerslijst of taxatie, en wanneer welke methode loont.",
+        "date": "2026-07-29",
+        "category": "BPM",
+        "lead": "De BPM bepaalt bij veel imports of de rekensom klopt. Het bedrag is geen vast gegeven: de methode waarmee de afschrijving wordt vastgesteld, maakt bij dezelfde auto soms honderden euro's verschil.",
+        "body": """
+<h2>Het uitgangspunt: de bruto BPM</h2>
+<p>De BPM wordt eerst berekend alsof de auto nieuw is. Voor personenauto's is de
+CO2-uitstoot volgens de WLTP-meting de basis, met een opslag voor dieselauto's.
+Het tarief is dat van het jaar waarin de auto voor het eerst werd toegelaten.
+Daarmee ligt het bruto bedrag vast. Daarna volgt de korting voor de
+afschrijving.</p>
+
+<h2>Drie manieren om de afschrijving te bepalen</h2>
+<p>De forfaitaire tabel van de Belastingdienst geeft een vast percentage op basis
+van de leeftijd van de auto. Dat is de eenvoudigste route, maar houdt geen
+rekening met kilometerstand of staat. De koerslijst gaat uit van de
+handelswaarde van het model in Nederland. Een taxatierapport kijkt naar de
+werkelijke auto, inclusief schade, gebruikssporen en kilometers.</p>
+
+<h2>Wanneer welke methode loont</h2>
+<p>Bij een jonge auto met weinig kilometers zit de tabel vaak dicht bij de
+werkelijkheid. Bij een auto met veel kilometers of zichtbare schade levert een
+taxatie meestal meer afschrijving op, en dus minder BPM. De koerslijst is vooral
+interessant bij modellen die in Nederland relatief weinig waard zijn. Het loont
+om de uitkomst van meer dan één methode naast elkaar te leggen voordat de
+aangifte wordt gedaan.</p>
+
+<h2>Aangifte en betaling</h2>
+<p>De aangifte gaat digitaal bij de Belastingdienst, na de keuring bij de RDW.
+Pas als de BPM is betaald, wordt het kenteken op naam gezet. Een fout in de
+aangifte achteraf herstellen kost tijd, dus de gegevens van de keuring en de
+gekozen methode moeten kloppen.</p>
+
+<h2>Vooraf uitrekenen</h2>
+<p>Met de rekenhulp op
+<a href="https://easyimport.nl/bpm-berekenen-aangifte/">https://easyimport.nl/bpm-berekenen-aangifte/</a>
+is per auto na te gaan welke BPM te verwachten is. Daar staat ook hoe
+<a href="https://easyimport.nl/">EasyImport.nl</a> de aangifte verzorgt, inclusief
+de keuze voor tabel, koerslijst of taxatie.</p>
+""",
+    },
+    {
+        "slug": "kosten-auto-importeren",
+        "title": "Kosten van een auto importeren: wat er bovenop de aankoopprijs komt",
+        "description": "Welke kosten bij het importeren van een auto bovenop de aankoopprijs komen: transport, exportkenteken, keuring, BPM, leges en de optelsom vooraf.",
+        "date": "2026-07-08",
+        "category": "Kosten",
+        "lead": "Een auto in Duitsland of België ziet er op de advertentie vaak voordelig uit. Of dat voordeel overeind blijft, hangt af van alles wat er na de koop nog bij komt. Wie die posten vooraf op een rij zet, weet precies hoeveel ruimte er overblijft.",
+        "body": """
+<h2>Ophalen of laten brengen</h2>
+<p>De eerste kostenpost is het vervoer. Zelf ophalen kost een treinreis of vlucht,
+brandstof en een exportkenteken met kortlopende verzekering. Transport met een
+autoambulance of op een vrachtwagen met meerdere auto's kost meer, maar scheelt
+tijd en kilometers op de teller. Bij een afstand van een paar honderd kilometer
+ligt het verschil tussen beide routes vaak dichter bij elkaar dan verwacht.</p>
+
+<h2>Keuring bij de RDW</h2>
+<p>Elke geïmporteerde auto moet een identificatie- en registratiekeuring bij de
+RDW ondergaan voordat er een Nederlands kenteken komt. Daarvoor rekent de RDW
+vaste tarieven. Bij oudere auto's komt er een APK bij, en een auto die niet aan
+de eisen voldoet, moet eerst worden hersteld. Dat laatste is de post die het
+vaakst wordt onderschat.</p>
+
+<h2>BPM als grootste onbekende</h2>
+<p>De belasting van personenauto's en motorrijwielen is bij de meeste imports de
+grootste kostenpost na de aankoop. Bij een gebruikte auto wordt de BPM verminderd
+op basis van de afschrijving. Die wordt bepaald met een forfaitaire tabel, een
+koerslijst of een taxatierapport. Welke methode het gunstigst uitvalt, verschilt
+per auto. Een taxatie kost geld, maar levert bij auto's met schade of hoge
+kilometerstand vaak meer op dan de tabel.</p>
+
+<h2>Kleine posten die optellen</h2>
+<p>Daarnaast zijn er de leges voor het kenteken, de kentekenplaten, eventuele
+reparaties om door de keuring te komen en de verzekering vanaf de eerste dag op
+Nederlands kenteken. Los zijn het geen grote bedragen, samen zijn ze het verschil
+tussen een voordelige en een gemiddelde aankoop.</p>
+
+<h2>Vooraf rekenen</h2>
+<p>Een overzicht van alle posten, met voorbeeldbedragen en de volgorde waarin ze
+langskomen, staat op
+<a href="https://easyimport.nl/auto-importeren/wat-kost-een-auto-importeren/">https://easyimport.nl/auto-importeren/wat-kost-een-auto-importeren/</a>.
+Wie het hele traject liever uit handen geeft, kan bij
+<a href="https://easyimport.nl/">Easy Import</a> terecht. Het importbedrijf
+regelt transport, keuring en BPM-aangifte en geeft vooraf een totaalprijs.</p>
 """,
     },
     {
