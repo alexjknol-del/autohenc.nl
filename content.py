@@ -773,6 +773,8 @@ LINK_PARTNERS = [
      "MvE Multiservice verhuurt kraanmachinisten voor bouw-, grondverzet- en infraprojecten."),
     ("rittenplanning software", "https://www.ptvlogistics.com/nl/producten/ptv-optiflow",
      "PTV Logistics maakt software voor ritoptimalisatie, waarmee vervoerders ritten en routes efficienter plannen."),
+    ("Audi sleutel bijmaken", "https://www.auto-sleutel.nl/autosleutels/audi",
+     "Autosleutel.nl levert reservesleutels en sleutelbehuizingen voor alle gangbare automerken."),
 ]
 
 
