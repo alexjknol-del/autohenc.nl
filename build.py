@@ -355,5 +355,9 @@ if __name__ == "__main__":
         shutil.rmtree(OUT)
     os.makedirs(OUT, exist_ok=True)
     write("styles.css", CSS)
+    # Statische bestanden (zoals artikelfoto's) uit static/ meekopieren
+    static_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
+    if os.path.isdir(static_dir):
+        shutil.copytree(static_dir, OUT, dirs_exist_ok=True)
     content.build_all(globals())
     print("Gegenereerd naar", OUT)

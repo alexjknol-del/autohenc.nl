@@ -6,6 +6,53 @@
 # ---------------------------------------------------------------------------
 ARTICLES = [
     {
+        "slug": "duitse-occasion-kopen",
+        "title": "Waarom steeds meer autokopers naar Duitse occasions kijken",
+        "meta_title": "Auto importeren uit Duitsland | Tips voor occasions",
+        "description": "Een occasion kopen in Duitsland? Ontdek waar je op moet letten bij de aankoop, welke importkosten erbij komen en hoe het importproces verloopt.",
+        "date": "2026-10-31",
+        "category": "Tips",
+        "image": "/img/nieuws/duitse-occasion-kopen.jpg",
+        "image_alt": "Interieur van een luxe auto met stuurwiel en dashboard",
+        "lead": "Wie op zoek is naar een andere auto, begint meestal bij het Nederlandse occasionaanbod. Toch kan het interessant zijn om ook over de grens te kijken. Duitsland heeft een grote automarkt met veel verschillende merken, modellen en uitvoeringen. Vooral voor autoliefhebbers die specifieke wensen hebben, biedt dit extra mogelijkheden. Maar hoe vind je een betrouwbare Duitse occasion en waar moet je rekening mee houden voordat je de auto naar Nederland haalt?",
+        "body": """
+<h2><strong>Een groter aanbod aan merken en uitvoeringen</strong></h2>
+<p>Duitsland staat bekend om zijn uitgebreide automarkt. Naast populaire modellen van Volkswagen, BMW, Audi en Mercedes-Benz zijn er veel andere merken en uitvoeringen beschikbaar.</p>
+<p>Dat grotere aanbod kan interessant zijn wanneer je een auto zoekt met specifieke opties. Denk aan een panoramadak, uitgebreide rijhulpsystemen, sportstoelen of een bijzondere kleurcombinatie.</p>
+<p>Ook voor kopers die een relatief jonge occasion zoeken, kan de Duitse markt aantrekkelijk zijn.</p>
+<p>Een grotere keuze betekent echter niet automatisch dat iedere auto voordeliger is. Het blijft belangrijk om prijzen, kilometerstanden en onderhoudshistorie zorgvuldig te vergelijken.</p>
+<h2><strong>Waar moet je op letten bij een Duitse occasion?</strong></h2>
+<p>Een aantrekkelijke advertentie is een goed begin, maar vertelt niet alles over de staat van een auto.</p>
+<p>Controleer daarom of de onderhoudsboekjes aanwezig zijn en vraag naar facturen van eerdere onderhoudsbeurten. Ook het Duitse kentekenbewijs en de voertuiggegevens verdienen aandacht.</p>
+<p>Bekijk daarnaast of de kilometerstand logisch aansluit bij de leeftijd en onderhoudshistorie.</p>
+<p>Een onafhankelijke aankoopkeuring kan helpen om verborgen gebreken te ontdekken. Dat is vooral verstandig wanneer je de auto niet zelf uitgebreid kunt beoordelen.</p>
+<p>Wie overweegt een <a href="https://easyimport.nl/auto-importeren-duitsland/">auto importeren uit Duitsland</a>, doet er goed aan deze controles uit te voeren voordat de koop definitief wordt.</p>
+<h2><strong>Vergeet de bijkomende importkosten niet</strong></h2>
+<p>De vraagprijs van een Duitse occasion is niet hetzelfde als het uiteindelijke bedrag dat je in Nederland betaalt.</p>
+<p>Bij import krijg je mogelijk te maken met BPM, transportkosten, RDW-kosten en de aanschaf van Nederlandse kentekenplaten.</p>
+<p>De hoogte van de BPM hangt onder andere af van de voertuiggegevens en de toepasselijke afschrijving.</p>
+<p>Ook kunnen er kosten ontstaan wanneer een auto technische aanpassingen nodig heeft of wanneer je deze verzekerd naar Nederland wilt vervoeren.</p>
+<p>Maak daarom vooraf een totaalberekening. Zo kun je een buitenlandse occasion eerlijk vergelijken met een vergelijkbaar exemplaar dat al een Nederlands kenteken heeft.</p>
+<h2><strong>Hoe verloopt het importproces?</strong></h2>
+<p>Na de aankoop moet de auto naar Nederland worden gebracht. Dat kan bijvoorbeeld via professioneel transport of door zelf met de juiste tijdelijke kentekenplaten en verzekering te rijden.</p>
+<p>Vervolgens moet het voertuig bij de RDW worden aangeboden voor de benodigde controles en registratie.</p>
+<p>Daarnaast moet, indien van toepassing, BPM-aangifte worden gedaan. Nadat aan de registratievoorwaarden is voldaan, kan de auto een Nederlands kenteken krijgen.</p>
+<p>Dit proces vraagt om de juiste documenten en een goede planning.</p>
+<p>Via <a href="https://easyimport.nl/">easyimport.nl</a> is informatie beschikbaar over verschillende vormen van importbegeleiding, van kostenberekeningen tot ondersteuning bij aankoop, transport en registratie.</p>
+<h2><strong>Wanneer is importeren echt interessant?</strong></h2>
+<p>Een Duitse occasion is vooral interessant wanneer het gewenste model in Nederland moeilijk verkrijgbaar is of wanneer het prijsverschil voldoende groot blijft na alle bijkomende kosten.</p>
+<p>Ook de uitvoering en onderhoudsstaat kunnen een belangrijke rol spelen.</p>
+<p>Vergelijk daarom niet alleen auto&#x27;s van hetzelfde bouwjaar, maar kijk ook naar kilometerstand, motorisering, uitrusting en onderhoud.</p>
+<p>Een goedkoper exemplaar met achterstallig onderhoud kan uiteindelijk duurder uitvallen dan een goed onderhouden auto met een hogere aanschafprijs.</p>
+<h2><strong>Goed voorbereid de grens over</strong></h2>
+<p>Een auto kopen in Duitsland kan nieuwe mogelijkheden bieden voor wie op zoek is naar een specifieke occasion.</p>
+<p>De sleutel ligt bij een zorgvuldige voorbereiding. Controleer de voertuiggeschiedenis, onderzoek de totale importkosten en zorg dat alle benodigde documenten beschikbaar zijn.</p>
+<p>Door verschillende aanbiedingen kritisch te vergelijken, wordt duidelijk of import daadwerkelijk voordeel oplevert.</p>
+<p>Zo vergroot je de kans dat je niet alleen een aantrekkelijke auto vindt, maar ook jarenlang plezier hebt van je aankoop.</p>
+""",
+        "related": ["occasion-uit-duitsland-historie-controleren", "kosten-auto-importeren", "auto-importeren-uit-duitsland"],
+    },
+    {
         "slug": "occasion-uit-duitsland-historie-controleren",
         "title": "Een occasion uit Duitsland: zo is de historie te controleren",
         "description": "Hoe de historie van een gebruikte auto uit Duitsland te controleren is: het Scheckheft, de TÜV-rapporten, de kilometerstand en de papieren bij de koop.",
@@ -1023,6 +1070,12 @@ def build_all(g):
         if faq_ld:
             lds.append(faq_ld)
 
+        figure = ""
+        if a.get("image"):
+            figure = (f'<figure style="margin:0 0 28px"><img src="{a["image"]}" alt="{a["image_alt"]}" '
+                      'width="1200" height="800" loading="eager" style="width:100%;height:auto;border-radius:inherit"></figure>\n    ')
+            article_ld["image"] = BASE_URL + a["image"]
+
         body = f"""
 <article class="article">
   <div class="wrap">
@@ -1035,11 +1088,11 @@ def build_all(g):
       <p class="lead">{a['lead']}</p>
       <p class="post-meta">Gepubliceerd op {_nl_date(a['date'])} &middot; Redactie autoHENC</p>
     </div>
-    <div class="prose">{a['body']}{faq_block}{related_block}</div>
+    {figure}<div class="prose">{a['body']}{faq_block}{related_block}</div>
   </div>
 </article>
 """
-        write(f"nieuws/{a['slug']}.html", R(a["title"], a["description"],
+        write(f"nieuws/{a['slug']}.html", R(a.get("meta_title", a["title"]), a["description"],
               body, "/nieuws/" + a["slug"], active="Nieuws",
               jsonld=lds, og_type="article"))
 
