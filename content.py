@@ -812,6 +812,8 @@ ARTICLES_BY_SLUG = {a["slug"]: a for a in ARTICLES}
 LINK_PARTNERS = [
     ("Spoedcursus rijbewijs Leiden", "https://rijbewijssucces.nl/",
      "Snel het rijbewijs halen met een spoedcursus in de regio Leiden."),
+    ("rijschool leiden", "https://rijbewijssucces.nl/rijopleiding-leiden/",
+     "Rijopleiding voor rijbewijs B in Leiden, met lessen in de stad en de omgeving."),
     ("Elektrische heftruck kopen", "https://www.heffiq.nl/elektrische/heftruck",
      "HeffiQ levert elektrische heftrucks voor intern transport in loods en werkplaats."),
     ("Moment sleutel", "https://www.radialtorque.eu/radtorque/momentsleutels/",
