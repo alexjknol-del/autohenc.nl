@@ -824,6 +824,8 @@ LINK_PARTNERS = [
      "PTV Logistics maakt software voor ritoptimalisatie, waarmee vervoerders ritten en routes efficienter plannen."),
     ("Audi sleutel bijmaken", "https://www.auto-sleutel.nl/autosleutels/audi",
      "Autosleutel.nl levert reservesleutels en sleutelbehuizingen voor alle gangbare automerken."),
+    ("plateauwagen kopen", "https://petersaanhangwagens.nl/product-categorie/aanhangwagens/plateauwagens/",
+     "Peters Aanhangwagens verkoopt plateauwagens en andere aanhangwagens voor transport van voertuigen en materiaal."),
 ]
 
 
